@@ -32,9 +32,9 @@
 ---
 
 ## 📫 Connect With Me
-- 🌐 **GitHub:** [github.com/dharanishbaabu](https://github.com/dharanishbaabu)
-- 💼 **LinkedIn:** [linkedin.com/in/dharanishbaabu](https://linkedin.com/in/dharanishbaabu)
-- ✉️ **Email:** dharanishbaabu@example.com  
+- 🌐 **GitHub:** [github.com/dharanishbaabu](https://github.com/Dharanish-24)
+- 💼 **LinkedIn:** [linkedin.com/in/dharanishbaabu](https://www.linkedin.com/in/dharanish24)
+- ✉️ **Email:** itsdharanishbaabu@gmail.com  
 
 ---
 
