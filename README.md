@@ -22,7 +22,7 @@
 🔍 Self-analysis and personal growth  
 
 ## 📫 Connect With Me
-🌐 **GitHub:** [github.com/dharanishbaabu](https://github.com/Dharanish-24)
-💼 **LinkedIn:** [linkedin.com/in/dharanishbaabu](https://www.linkedin.com/in/dharanish24)
-✉️ **Email:** itsdharanishbaabu@gmail.com  
+-- 🌐 **GitHub:** [github.com/dharanishbaabu](https://github.com/Dharanish-24)
+-- 💼 **LinkedIn:** [linkedin.com/in/dharanishbaabu](https://www.linkedin.com/in/dharanish24)
+-- ✉️ **Email:** itsdharanishbaabu@gmail.com  
 
