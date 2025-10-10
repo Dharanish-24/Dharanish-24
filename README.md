@@ -5,11 +5,10 @@
 </p>
 
 ## 🧠 About Me
- 👨‍💻 Passionate about solving logical and analytical problems.  
- 📊 Skilled in **Python**, **SQL**, and **Power BI** for data analysis and visualization.  
- 🧩 Proficient in **C** and **Java** for core programming and algorithmic problem solving.  
- 💡 Interested in database design, query optimization, and interactive data reporting.  
- 🌱 Always exploring new tools that improve productivity and software efficiency.  
+<p> Hard-working and dedicated computer science student with strong skills in  
+Java and problem-solving. Known for making sound decisions and handling
+ challenges effectively. Committed to continuous learning and advancement,
+ with a clear goal of becoming a data analysts.</p>  
 
 ## 🧰 Tech Stack
 - **Languages:** C,Java,Python,SQL
