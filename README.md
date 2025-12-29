@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Dharanish Baabu</h1>
 
 <p align="center">
-🎓 Final Year IT Student | 💻 Aspiring SQL Developer & Data Analyst | 🌱 Lifelong Learner
+🎓 Computer Science Student | 🌱 Lifelong Learner
 </p>
 
 ## 🧠 About Me
